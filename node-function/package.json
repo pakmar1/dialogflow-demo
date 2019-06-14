@@ -13,9 +13,6 @@
     "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment"
   },
   "dependencies": {
-    "@google-cloud/automl": "^1.0.0",
-    "@google-cloud/translate": "^4.0.1",
-    "yargs": "^13.0.0",
     "actions-on-google": "^2.2.0",
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.2",
